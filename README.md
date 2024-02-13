@@ -41,15 +41,18 @@ Using the 'as' keyword, the output of the '.open()' function is assigned to a va
 
 <Br> To read the file contents, I used the .read() method to convert it into the string.</Br>
 
+<img src="https://github.com/JustinMills2024/Algorithm-for-file-updates-in-Python/assets/159082478/21fe32f3-4c07-4e18-840e-002ac1a1e7bf" alt="1707844728004">
 
 
 
 
 
-<h2>Retrieve login attempts outside of Mexico</h2>
-<br> Scenario: After investigating the organization’s data on login attempts, I believe there is an issue with the login attempts that occurred outside of Mexico. These login attempts should be investigated.
 
-The following code demonstrates how I created a SQL query to filter for login attempts that occurred outside of Mexico.</br>
+<h2>Convert the string into a list </h2>
+<br> To remove individual IP addresses from the allow list, I required it to be in list format. Consequently, I utilized the '.split()' method to transform the 'ip_addresses' string into a list.
+.</br>
+
+
 
 <img src="https://github.com/JustinMills2024/Apply-filters-to-SQL-queries/assets/159082478/a1582050-6d31-4362-b15f-e9c8d17a18db" alt="1707189394904">
 <h2>Retrieve employees in Marketing</h2>
