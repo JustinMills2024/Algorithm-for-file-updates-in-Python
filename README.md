@@ -70,6 +70,7 @@ Using the 'as' keyword, the output of the '.open()' function is assigned to a va
 To remove any IP address from the allow list, 'ip_addresses', that is also present in 'remove_list', my algorithm employs the following code. Since there were no duplicates in 'ip_addresses', this code effectively accomplishes the task
 
 
+<img src="https://github.com/JustinMills2024/Algorithm-for-file-updates-in-Python/assets/159082478/b105a465-7fd2-47f1-9236-ba664f2b5dd8" alt="1707846634878">
 
 
 
