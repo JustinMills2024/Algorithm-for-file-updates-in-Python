@@ -55,7 +55,9 @@ Using the 'as' keyword, the output of the '.open()' function is assigned to a va
 <br> To remove individual IP addresses from the allow list, I required it to be in list format. Consequently, I utilized the '.split()' method to transform the 'ip_addresses' string into a list.
 .</br>
 
-<img src="https://github.com/JustinMills2024/Algorithm-for-file-updates-in-Python/assets/159082478/ea975ae2-abc0-46af-b9a5-d118f8b325e9" alt="170784">
+<img src="https://github.com/JustinMills2024/Algorithm-for-file-updates-in-Python/assets/159082478/c7e5af96-ff74-4b1e-b5a5-5ddcc6a7591c" alt="1707846091599">
+
+
 
 <h2>Iterate through the remove list</h2>
 
