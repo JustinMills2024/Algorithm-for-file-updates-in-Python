@@ -52,15 +52,14 @@ Using the 'as' keyword, the output of the '.open()' function is assigned to a va
 <br> To remove individual IP addresses from the allow list, I required it to be in list format. Consequently, I utilized the '.split()' method to transform the 'ip_addresses' string into a list.
 .</br>
 
+<img src="https://github.com/JustinMills2024/Algorithm-for-file-updates-in-Python/assets/159082478/ea975ae2-abc0-46af-b9a5-d118f8b325e9" alt="170784">
+
+<h2>Iterate through the remove list</h2>
+
+<br>An essential aspect of my algorithm is to iterate through the IP addresses listed in the 'remove_list'. To achieve this, I integrated a 'for' loop.</br>
 
 
-<img src="https://github.com/JustinMills2024/Apply-filters-to-SQL-queries/assets/159082478/a1582050-6d31-4362-b15f-e9c8d17a18db" alt="1707189394904">
-<h2>Retrieve employees in Marketing</h2>
-<br> Scenario: My team wants to update the computers for certain employees in the Marketing department. To do this, I have to get information on which employee machines to update.
 
-The following code demonstrates how I created a SQL query to filter for employee machines from employees in the Marketing department in the East building.</Br>
-
-<img src="https://github.com/JustinMills2024/Apply-filters-to-SQL-queries/assets/159082478/b74a19fa-9a6c-45a0-9ad5-d9507b6c13d0" alt="1707189682247">
 
 <h2>Summary</h2>
 <br>I applied filters to SQL queries to get specific information on login attempts and employee machines. I used two different tables, log_in_attempts and employees. 
