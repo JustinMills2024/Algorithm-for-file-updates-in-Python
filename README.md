@@ -58,16 +58,23 @@ Using the 'as' keyword, the output of the '.open()' function is assigned to a va
 
 <br>An essential aspect of my algorithm is to iterate through the IP addresses listed in the 'remove_list'. To achieve this, I integrated a 'for' loop.</br>
 
+<img src="https://github.com/JustinMills2024/Algorithm-for-file-updates-in-Python/assets/159082478/8131eaf5-ec62-494c-9e66-a6547796290d" alt="1707845456505">
+
+<h2>Remove IP addresses that are on the remove list </h2>
+
+To remove any IP address from the allow list, 'ip_addresses', that is also present in 'remove_list', my algorithm employs the following code. Since there were no duplicates in 'ip_addresses', this code effectively accomplishes the task
+
+
 
 
 
 <h2>Summary</h2>
-<br>I applied filters to SQL queries to get specific information on login attempts and employee machines. I used two different tables, log_in_attempts and employees. 
+<br>I developed an algorithm to eliminate IP addresses specified in a 'remove_list' variable from the "allow_list.txt" file, which contains approved IP addresses. 
 
-I used the AND, OR, and NOT operators to filter for the specific information needed for each task. I also used LIKE and the percentage sign (%) wildcard to filter for patterns.</br>
+The algorithm involved opening the file, converting its content to a string for reading, and then transforming this string into a list stored in the 'ip_addresses' variable. Subsequently, I iterated through the IP addresses in the 'remove_list'. 
 
+During each iteration, I checked if the element was present in the 'ip_addresses' list. 
 
-
-
+If it was, I utilized the '.remove()' method to eliminate the element from 'ip_addresses'. Following this, the '.join()' method was employed to convert 'ip_addresses' back into a string. This allowed me to overwrite the contents of the "allow_list.txt" file with the updated list of IP addresses.</br>
 
 
