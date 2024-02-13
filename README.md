@@ -19,15 +19,17 @@ Your task is to create an algorithm that uses Python code to check whether the a
 <br> For the first part of the algorithm, I opened the "allow_list.txt" file. First, I assigned this file name as a string to the import_file variable:
 <br>
 
-<img src="https://github.com/JustinMills2024/Apply-filters-to-SQL-queries/assets/159082478/9e4121bb-1d3e-48d9-be19-133ea0f4aef3" alt="1707187000943">
+<img src="https://github.com/JustinMills2024/Algorithm-for-file-updates-in-Python/assets/159082478/3dc9d037-8bd8-4ea6-96ba-625a9d8b1913" alt="1707844414523">
+
+
 
 <br>Then, I used a with statement to open the file:</br>
+
+
 
 <H2>Retrieve login attempts on specific dates</H2>
 
 
-
-<img src="https://github.com/JustinMills2024/Apply-filters-to-SQL-queries/assets/159082478/a5b742d9-9cc6-4e4c-9b92-a43b323ab511" alt="1707189042692">
 
 <h2>Retrieve login attempts outside of Mexico</h2>
 <br> Scenario: After investigating the organization’s data on login attempts, I believe there is an issue with the login attempts that occurred outside of Mexico. These login attempts should be investigated.
