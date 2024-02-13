@@ -43,7 +43,8 @@ Using the 'as' keyword, the output of the '.open()' function is assigned to a va
 
 <Br> To read the file contents, I used the .read() method to convert it into the string.</Br>
 
-<img src="https://github.com/JustinMills2024/Algorithm-for-file-updates-in-Python/assets/159082478/21fe32f3-4c07-4e18-840e-002ac1a1e7bf" alt="1707844728004">
+<img src="https://github.com/JustinMills2024/Algorithm-for-file-updates-in-Python/assets/159082478/41ade78b-11d4-4f45-ac83-d870b47223a1" alt="170784598">
+
 
 
 
