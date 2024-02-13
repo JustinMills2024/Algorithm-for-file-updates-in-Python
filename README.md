@@ -25,9 +25,24 @@ Your task is to create an algorithm that uses Python code to check whether the a
 
 <br>Then, I used a with statement to open the file:</br>
 
+<img src="https://github.com/JustinMills2024/Algorithm-for-file-updates-in-Python/assets/159082478/5712843e-5ee2-43d0-bee5-1f78858cb34a" alt="1707844728004">
+<br>In my algorithm, I utilize the 'with' statement alongside the '.open()' function in read mode to access the allow list file and retrieve its contents. 
+
+This approach ensures efficient management of resources by automatically closing the file once the 'with' block is exited. The 'open()' function is called with two parameters: the first specifies the file to be opened, and the second indicates the desired mode of operation – in this case, 'r' for reading. 
+
+Using the 'as' keyword, the output of the '.open()' function is assigned to a variable named 'file', facilitating operations within the 'with' statement.<br/>
 
 
-<H2>Retrieve login attempts on specific dates</H2>
+
+
+
+
+<H2>Read the file contents </H2>
+
+<Br> To read the file contents, I used the .read() method to convert it into the string.</Br>
+
+
+
 
 
 
